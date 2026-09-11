@@ -68,4 +68,4 @@ In **Tools &rarr; Scripts &rarr; stream_marker.lua**:
 
 ## 📜 License
 
-MIT License © [Ais-chii](https://github.com/Ais-chii)
+MIT License © [Aischii](https://github.com/Aischii)
